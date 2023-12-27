@@ -1,5 +1,6 @@
-public class Hello {
-  public static void main(String[] args) {
-    System.out.println("Hello, Jenkins - From Java");
-  }
+public class hello {
+   public static void main(String[] args) {
+      // Prints "Hello, World" in the terminal window.
+      System.out.println("Hello, Jenkins - From Java");
+   }
 }
